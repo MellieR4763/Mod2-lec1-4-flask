@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "correo": "juan@example.com"
+    },
+    {
+      "id": 2,
+      "nombre": "Ana López",
+      "correo": "ana@example.com"
+    }
+  ],
+  "productos": [
+    {
+      "id": 101,
+      "nombre": "Laptop Lenovo",
+      "precio": 899.99,
+      "stock": 10,
+      "descripcion": "Laptop para trabajo y estudio",
+      "categoria": "Electrónica"
+    },
+    {
+      "id": 102,
+      "nombre": "Mouse Logitech",
+      "precio": 25.5,
+      "stock": 50,
+      "descripcion": "Mouse inalámbrico",
+      "categoria": "Accesorios"
+    }
+  ]
+}
